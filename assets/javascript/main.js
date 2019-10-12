@@ -16,7 +16,7 @@ const scoreDiv = document.getElementById("scoreContainer");
 let questions = [
     {
         question : "What game did Mario first apper in?",
-        
+        gif: "<img src='../../assets/images.DK.gif'>",
         choiceA : "Donkey Kong",
         choiceB : "Super Mario Bros.",
         choiceC : "Mario Kart",
